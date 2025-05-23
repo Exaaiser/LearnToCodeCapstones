@@ -15,7 +15,7 @@ public class Transaction {
         this.description = description;
         this.vendor = vendor;
         this.amount = amount;
-        // Not: In this class we just keep values, positive or negative is doesnt matter.
+        // Not: In this class we just keep values
     }
 //Getter for keepin all values and creating get commands
     public String getDate() {
